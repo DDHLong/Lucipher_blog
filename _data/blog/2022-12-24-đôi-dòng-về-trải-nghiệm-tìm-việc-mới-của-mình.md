@@ -4,7 +4,7 @@ path: /notgivingup
 date: 2022-12-24T17:35:59.663Z
 title: Đôi dòng về trải nghiệm tìm việc mới của mình
 metaDescription: Đôi dòng về trải nghiệm tìm việc mới của mình
-thumbnail: /assets/_cas4020.jpg
+thumbnail: https://images.unsplash.com/photo-1483213097419-365e22f0f258?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80
 ---
 T﻿ính đến nay, mình đi làm cũng đã được gần 2 năm rồi. Mình đã trải qua hai công ty và trước mặt mình đang là một bến đỗ mới. Hai công việc đầu của mình là mình được tuyển bởi những người mình quen nên gần như mình không có tí kinh nghiệm gì về việc phỏng vấn cả. Mình chuyển sang công việc thứ 2 vì muốn tiếp cận với lĩnh vực tài chính và mức lương cũng tốt hơn mặc dù ở công ty đầu tiên mình đang học được rất nhiều. Fast forward đến khoảng tháng 9/2022, Có một vài việc làm mình cảm thấy mình phải nhìn nhận lại bản thân, mình cảm thấy mình đang dậm chận tại chỗ và thậm chí thụt lùi về chuyên môn của mình (cụ thể mình là một web developer), thì mình mới có ý định đi phỏng vấn một vài công ty. 
 
