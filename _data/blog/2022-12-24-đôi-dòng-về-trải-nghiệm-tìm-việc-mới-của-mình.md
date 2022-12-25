@@ -20,4 +20,6 @@ T﻿háng 11/2022, mình quyết định gạt cảm xúc sang 1 bên và dứt 
 
 * M﻿ình biết mình trượt mình rất nản và mình rất buồn. Mình tự nghi ngờ bản thân. Nhưng mà sâu trong mình biết mình còn thiếu chỗ nào và mình học. Mình học những lí thuyết mình thấy mình đang mơ hồ hay những thứ có thể sẽ phỏng vấn. Mình còn code 1 trang web nho nhỏ để vận dụng những kiến thức mới đã học và những kiến thức này đã giúp code của mình tốt hơn rất nhiều. 
 
-K﻿ết quả tốt cuối cùng cũng tới. Lúc nhận tin mình nhảy chân sáo luôn. Lần này mình mới thực sự coi là chiến thắng vì mình đã học được rất nhiều, vì mình đã chịu học hỏi, bổ sung những thứ mình còn thiếu. Công nghệ luôn update hàng ngày, hàng giờ nên mình cũng sẽ phải update bản thân theo nó. Mong công việc mới sẽ thật suôn sẻ và mình sẽ học được nhiều điều khi làm nó.
+N﻿ếu mình luôn luôn đỗ chứng tỏ mình đang aim quá thấp nên một lần trượt là một lần học. Mình đã tự nhủ với bản thân mình như vậy.
+
+K﻿ết quả tốt cuối cùng cũng tới. Lúc nhận tin mình nhảy chân sáo luôn. Lần này mình mới thực sự coi là chiến thắng vì mình đã chịu học hỏi, bổ sung những thứ mình còn thiếu. Công nghệ luôn update hàng ngày, hàng giờ nên mình cũng sẽ phải update bản thân theo nó. Mong công việc mới sẽ thật suôn sẻ và mình sẽ học được nhiều điều khi làm nó.
