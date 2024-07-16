@@ -3,6 +3,7 @@ template: BlogPost
 path: /new-goals-2024
 date: 2024-07-16T06:10:04.438Z
 title: Small steps for big change
+thumbnail: /assets/_mg_4685.jpg
 ---
 I know more than half a year has passed, but a lot has happened in the first few months. I haven't had the energy to set any goals for this year yet. I've been working at a new company for two months now, and everything is pretty stable. I want to sit down and set my goals for the second half of the year.
 
